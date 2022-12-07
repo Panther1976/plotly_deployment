@@ -1,6 +1,6 @@
 # plotly_deployment
 
-![Banner](../../../../../C:/Users/steve/Class/plotly_deployment/images/banner.png)
+<img width="534" alt="banner" src="https://user-images.githubusercontent.com/106631875/206319434-38b20ef6-8cab-4a8a-aa95-f05cb9b50e59.png">
 
 ## Overview of the Project: 
 
@@ -8,19 +8,19 @@ The purpose of this project was to help Roza add to her dashboard’s demographi
 
 ### Demographic Information of the Volunteers:
 
-![Demographics](../../../../../C:/Users/steve/Class/plotly_deployment/images/demographics.png)
+<img width="80" alt="demographics" src="https://user-images.githubusercontent.com/106631875/206319457-90107a02-d2a4-45f1-b0a2-6411247c53c3.png">
 
 ### Gauge Chart:
 
-![Gauge Chart](../../../../../C:/Users/steve/Class/plotly_deployment/images/gauge_chart.png)
+<img width="204" alt="gauge_chart" src="https://user-images.githubusercontent.com/106631875/206319475-d792f938-4633-448c-b85e-fc4f785abb5b.png">
 
 ### Bar Chart:
 
-![Bar Chart](../../../../../C:/Users/steve/Class/plotly_deployment/images/bar_chart.png)
+<img width="217" alt="bar_chart" src="https://user-images.githubusercontent.com/106631875/206319491-b53303fd-ffcd-40a5-943c-77c7bf78e3d3.png">
 
 ### Bubble Chart:
 
-![Bubble Chart](../../../../../C:/Users/steve/Class/plotly_deployment/images/bubble_chart.png)
+<img width="553" alt="bubble_chart" src="https://user-images.githubusercontent.com/106631875/206319506-5d920a94-27e4-4a93-8e3c-6e224c7ffed7.png">
 
 ## Summary: 
 
