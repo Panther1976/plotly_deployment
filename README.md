@@ -25,4 +25,4 @@ The purpose of this project was to help Roza add to her dashboard’s demographi
 ## Summary: 
 
 Having interactive visualizations make her dashboard come to life!
-[Click her to view the Belly Button Biodiversity Dashboard.](https://panther1976.github.io/plotly_deployment/)
+[Click here to view the Belly Button Biodiversity Dashboard.](https://panther1976.github.io/plotly_deployment/)
