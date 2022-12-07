@@ -1,3 +1,7 @@
+d3.json("samples.json").then(function(data){
+  console.log(data);
+});
+
 function init() {
   var selector = d3.select("#selDataset");
 
@@ -15,8 +19,8 @@ function init() {
 init();
 
 function optionChanged(newSample) {
-   console.log(newSample);
- }
+  console.log(newSample);
+}
 
 function optionChanged(newSample) {
   buildMetadata(newSample);
@@ -29,14 +33,14 @@ function buildMetadata(sample) {
     var result = resultArray[0];
     var PANEL = d3.select("#sample-metadata");
   
-      PANEL.html("");
-      PANEL.append("h6").text(result.id);
-      PANEL.append("h6").text(result.ethnicity);
-      PANEL.append("h6").text(result.gender);
-      PANEL.append("h6").text(result.age);
-      PANEL.append("h6").text(result.location);
-      PANEL.append("h6").text(result.bbtype);
-      PANEL.append("h6").text(result.wfreq);
+    PANEL.html("");
+    PANEL.append("h6").text(result.id);
+    PANEL.append("h6").text(result.ethnicity);
+    PANEL.append("h6").text(result.gender);
+    PANEL.append("h6").text(result.age);
+    PANEL.append("h6").text(result.location);
+    PANEL.append("h6").text(result.bbtype);
+    PANEL.append("h6").text(result.wfreq);
 
     });
   }
